@@ -1,0 +1,26 @@
+{
+  "name": "onebank-web-automation",
+  "version": "1.0.0",
+  "description": "One Bank Web Automation Sterling",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://gitlab.com/reubenamissah22/onebank-web-automation.git"
+  },
+  "keywords": [
+    "Test",
+    "Automation"
+  ],
+  "author": "STERLING TCoE",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://gitlab.com/reubenamissah22/onebank-web-automation/issues"
+  },
+  "homepage": "https://gitlab.com/reubenamissah22/onebank-web-automation#readme",
+  "devDependencies": {
+    "cypress": "^12.12.0"
+  }
+}
