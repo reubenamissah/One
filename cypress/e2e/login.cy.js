@@ -22,4 +22,5 @@ describe("Given I am want to login to my account", function () {
       cy.get(login.loginBtn).click()
       
     })
+    
 })
